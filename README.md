@@ -37,6 +37,7 @@ analysis](https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404824X00061/1-
 ### Privacy compliance detection on Apple
 - [ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10190673), 2023, EuroSPW
 - [Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf), 2023, USENIX
+- [iHunter: Hunting Privacy Violations at Scale in the Software Supply Chain on iOS](https://www.usenix.org/system/files/sec24fall-prepub-85-liu-dexin.pdf), 2024 USENIX
 
 ### Privacy compliance detection on brower  
 - [Detection of Inconsistencies in Privacy Practices of Browser Extensions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10179338), 2023, S&P
@@ -50,6 +51,7 @@ analysis](https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404824X00061/1-
 - [Matcha: An IDE Plugin for Creating Accurate Privacy Nutrition Labels](https://dl.acm.org/doi/pdf/10.1145/3643544), 2024, UBICOMP
 - [A NEW HOPE: Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation](https://www.usenix.org/system/files/sec24fall-prepub-303-pan-shidong-hope.pdf), 2024, USENIX
 - [Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services](https://www.ndss-symposium.org/wp-content/uploads/usec2024-39-paper.pdf)), 2024 NDSS
+- [Large Language Models: A New Approach for Privacy Policy Analysis at Scale](https://link.springer.com/article/10.1007/s00607-024-01331-9), 2024
 
 ## Privacy User Study
 - [Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps](https://yangzhemin.github.io/papers/reno-ccs2024.pdf), 2024
