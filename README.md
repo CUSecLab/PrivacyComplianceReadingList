@@ -20,7 +20,7 @@
 - [PolicyLint: Investigating Internal Privacy Policy Contradictions on Google Play](https://www.usenix.org/conference/usenixsecurity19/presentation/andow), 2019, USENIX, [Github](https://github.com/benandow/PrivacyPolicyAnalysis)
 - [Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck](https://www.usenix.org/system/files/sec20-andow.pdf), 2020, USENIX, [Github](https://github.com/benandow/PrivacyPolicyAnalysis)
 - [POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad Personal Data Collection Practices](https://www.usenix.org/system/files/usenixsecurity23-zhou-lu.pdf), 2023, USENIX
-- [Do as You Say: Consistency Detection of Data Practice in Program Code and Privacy Policy in Mini-App], 2023
+- [Do as You Say: Consistency Detection of Data Practice in Program Code and Privacy Policy in Mini-App](https://arxiv.org/pdf/2302.13860), 2023
 
 ### Privacy compliance detection on Alexa platform  
 - [SkillExplorer: Understanding the Behavior of Skills in Large Scale](https://www.usenix.org/system/files/sec20-guo.pdf), 2020, USENIX
