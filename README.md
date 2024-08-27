@@ -56,3 +56,5 @@ analysis](https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404824X00061/1-
 ## Privacy User Study
 - [Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps](https://yangzhemin.github.io/papers/reno-ccs2024.pdf), 2024
 - [Who’s Listening? Analyzing Privacy Preferences in Multi-User Smart Personal Assistants Settings](https://www.usenix.org/system/files/soups2024_poster39_abstract-carreira_final.pdf), 2024, USENIX
+
+## Privacy consent/withdraw
