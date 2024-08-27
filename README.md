@@ -1,4 +1,4 @@
-# PrivacyComplianceReadingList
+# Privacy Compliance Reading List
 
 ## Privacy Labels
 - [A “Nutrition Label” for Privacy](https://dl.acm.org/doi/pdf/10.1145/1572532.1572538), 2009, SOUPS
