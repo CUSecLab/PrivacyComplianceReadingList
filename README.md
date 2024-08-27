@@ -1,7 +1,7 @@
 # PrivacyComplianceReadingList
 
 ## Privacy Labels
-[A “Nutrition Label” for Privacy]([https://pages.github.com/](https://dl.acm.org/doi/pdf/10.1145/1572532.1572538)).
+[A “Nutrition Label” for Privacy]([https://pages.github.com/](https://dl.acm.org/doi/pdf/10.1145/1572532.1572538).
 
 ## Privacy compliance detection on Android platform
 
