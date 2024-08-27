@@ -12,14 +12,19 @@
 - [Longitudinal analysis of privacy labels in the apple app store](https://arxiv.org/pdf/2206.02658), 2023
 - [Comparing Privacy Labels of Applications in Android and iOS](https://dl.acm.org/doi/pdf/10.1145/3603216.3624967), 2023, WPES
 - [Data Safety vs. App Privacy: Comparing the Usability of Android and iOS Privacy Labels](https://arxiv.org/pdf/2312.03918), 2023
+- [Honesty is the Best Policy: On the Accuracy of Apple Privacy Labels Compared to Apps' Privacy Policies](https://arxiv.org/abs/2306.17063), 2023
 - [Unpacking Privacy Labels: A Measurement and Developer Perspective on Google’s Data Safety Section](https://www.usenix.org/system/files/sec24summer-prepub-1315-khandelwal.pdf), 2024, USENIX
 
-## Privacy compliance detection on Android platform
+## Privacy compliance detection on Apple
 - [ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10190673), 2023, EuroSPW
-- [Honesty is the Best Policy: On the Accuracy of Apple Privacy Labels Compared to Apps' Privacy Policies](https://arxiv.org/abs/2306.17063), 2023
+- [Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf), 2023, USENIX
+
+## Privacy compliance detection on Android platform
+- [PolicyLint: Investigating Internal Privacy Policy Contradictions on Google Play](https://www.usenix.org/conference/usenixsecurity19/presentation/andow), 2019, USENIX, [Github](https://github.com/benandow/PrivacyPolicyAnalysis)
+- [Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck](https://www.usenix.org/system/files/sec20-andow.pdf), 2020, USENIX, [Github](https://github.com/benandow/PrivacyPolicyAnalysis)
 
 ## Privacy compliance detection on Alexa platform  
-- [SkillExplorer: Understanding the Behavior of Skills in Large Scale], 2020, USENIX
+- [SkillExplorer: Understanding the Behavior of Skills in Large Scale](https://www.usenix.org/system/files/sec20-guo.pdf), 2020, USENIX
 - [VerHealth: Vetting Medical Voice Applications through Policy Enforcement](https://dl.acm.org/doi/pdf/10.1145/3432233), 2020, IMWUT
 - [SkillVet: Automated Traceability Analysis of Amazon Alexa Skills](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9619970), 2021, TDSC
 - [Hey Alexa, is this skill safe?: Taking a closer look at the Alexa skill ecosystem](https://par.nsf.gov/servlets/purl/10216717), 2021, NDSS
@@ -37,7 +42,6 @@ analysis](https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404824X00061/1-
 - [A Solution toward Transparent and Practical AI Regulation: Privacy Nutrition Labels for Open-source Generative AI-based Applications](https://arxiv.org/pdf/2407.15407), 2024
 - [Matcha: An IDE Plugin for Creating Accurate Privacy Nutrition Labels](https://dl.acm.org/doi/pdf/10.1145/3643544), 2024, UBICOMP
 - [A NEW HOPE: Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation](https://www.usenix.org/system/files/sec24fall-prepub-303-pan-shidong-hope.pdf), 2024, USENIX
-- 
 
 ## Privacy User Study
 - [Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps](https://yangzhemin.github.io/papers/reno-ccs2024.pdf), 2024
