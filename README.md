@@ -53,7 +53,7 @@ analysis](https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404824X00061/1-
 - [Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services](https://www.ndss-symposium.org/wp-content/uploads/usec2024-39-paper.pdf)), 2024 NDSS
 - [Large Language Models: A New Approach for Privacy Policy Analysis at Scale](https://link.springer.com/article/10.1007/s00607-024-01331-9), 2024
 
-## Privacy User Study
+## Privacy user study
 - [Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps](https://yangzhemin.github.io/papers/reno-ccs2024.pdf), 2024
 - [Who’s Listening? Analyzing Privacy Preferences in Multi-User Smart Personal Assistants Settings](https://www.usenix.org/system/files/soups2024_poster39_abstract-carreira_final.pdf), 2024, USENIX
 
