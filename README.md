@@ -14,6 +14,7 @@
 - [Data Safety vs. App Privacy: Comparing the Usability of Android and iOS Privacy Labels](https://arxiv.org/pdf/2312.03918), 2023
 - [Honesty is the Best Policy: On the Accuracy of Apple Privacy Labels Compared to Apps' Privacy Policies](https://arxiv.org/abs/2306.17063), 2023
 - [Unpacking Privacy Labels: A Measurement and Developer Perspective on Google’s Data Safety Section](https://www.usenix.org/system/files/sec24summer-prepub-1315-khandelwal.pdf), 2024, USENIX
+- [Abandon All Hope Ye Who Enter Here: A Dynamic, Longitudinal Investigation of Android’s Data Safety Section](https://www.usenix.org/system/files/usenixsecurity24-arkalakis.pdf), 2024, USENIX
 
 ## Privacy compliance detection
 ### Privacy compliance detection on Android platform
@@ -45,6 +46,8 @@ analysis](https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404824X00061/1-
 ## Privacy compliance enhancement  
 - [Bolder is Beter: Raising User Awareness through Salient and Concise Privacy Notices](https://dl.acm.org/doi/pdf/10.1145/3411764.3445516), 2021, CHI
 - [Toward the Cure of Privacy Policy Reading Phobia: Automated Generation of Privacy Nutrition Labels From Privacy Policies](https://arxiv.org/abs/2306.10923), 2023
+- [Nlp-based automated compliance checking of data processing agreements against gdpr](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10167495), 2023, IEEE Transactions on Software Engineering
+- [ML-based Compliance Verification of Data Processing Agreements against GDPR](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10260912), 2023, IEEE International Conference on Requirements Engineering
 - Coconut: An IDE Plugin for Developing Privacy-Friendly Apps [Link](https://dl.acm.org/doi/10.1145/3287056), 2024, USENIX
 - Helping Mobile Application Developers Create Accurate Privacy Labels [Link](https://www.usenix.org/conference/pepr22/presentation/gardner)
 - [A Solution toward Transparent and Practical AI Regulation: Privacy Nutrition Labels for Open-source Generative AI-based Applications](https://arxiv.org/pdf/2407.15407), 2024
@@ -52,9 +55,15 @@ analysis](https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404824X00061/1-
 - [A NEW HOPE: Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation](https://www.usenix.org/system/files/sec24fall-prepub-303-pan-shidong-hope.pdf), 2024, USENIX
 - [Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services](https://www.ndss-symposium.org/wp-content/uploads/usec2024-39-paper.pdf)), 2024 NDSS
 - [Large Language Models: A New Approach for Privacy Policy Analysis at Scale](https://link.springer.com/article/10.1007/s00607-024-01331-9), 2024
+- [𝐶𝑜𝑚𝑝𝐴𝜄: A Tool for GDPR Completeness Checking of Privacy Policies using Artificial Intelligence](https://orbilu.uni.lu/bitstream/10993/62030/1/2024-ASE-AAB.pdf), 2024, ASE
+- [AI-Enabled Automation for Completeness Checking of Privacy Policies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599471), 2024, IEEE Transactions on Software Engineering
 
+  
 ## Privacy user study
 - [Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps](https://yangzhemin.github.io/papers/reno-ccs2024.pdf), 2024
 - [Who’s Listening? Analyzing Privacy Preferences in Multi-User Smart Personal Assistants Settings](https://www.usenix.org/system/files/soups2024_poster39_abstract-carreira_final.pdf), 2024, USENIX
 
 ## Privacy consent/withdraw
+
+## Children & Health
+[DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents](https://arxiv.org/pdf/2406.06473)
